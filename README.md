@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korags05&show_icons=true&theme=dracula&locale=en" alt="korags05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korags05&theme=highcontrast" alt="korags05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korags05&theme=dark" alt="korags05" /></p>
