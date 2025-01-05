@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korags05&label=Profile%20views&color=0e75b6&style=plastic" alt="korags05" /> </p>
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=korags05" alt="korags05" /></a> </p>
-
 - 🌱 I’m currently learning **Spring-boot**
 
 - 💬 Ask me about **Android**
